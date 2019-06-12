@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecipesApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menu_categories">Categories</string>
+    <string name="menu_api_one">First API</string>
+    <string name="menu_api_two">Second API</string>
+    <string name="exhausted">EXHAUSTED…</string>
+    <string name="loading">LOADING…</string>
+</resources>
